@@ -40,7 +40,7 @@ program climate_simulation
             filename = './outputs/snapshots/'//trim(fileno)
             snapshot = snapshot +1
             
-            open(12,file=filename, status='unknown')
+            open(12,file=filename, status="replace")
             do i=1,nx
                 write(12,*) timeyr, latdeg(i), T(i)
             end do
