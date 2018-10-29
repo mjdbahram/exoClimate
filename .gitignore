@@ -1,0 +1,7 @@
+./scr/*.mod
+./scr/*.o
+./scr/*.run
+
+./outputs/snapshots/*
+./outputs/results/*
+./outputs/parameters/*
