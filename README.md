@@ -1,7 +1,8 @@
 # **exoClimate**
 
-#### Final fortran/bash version
- - Run bash script "RUN_single_SCRIPT.sh" for single parameter set
- - Run bash script "RUN_multi_SCRIPT.sh" for multi parameter set
+This code provided to simulate the exoplanet Climate - for more information refer to our paper: arXiv: [1809.06907 ](https://arxiv.org/abs/1809.06907 'Evaluating the Effect of Four Immeasurable Parameters Included in a Latitudinal
+Energy Balance Model on the Habitability of Exoplanets')
 
-###### _switching to python in pyexoClimate repo for making it more object oriented_
+#### Final fortran/bash version
+ - `./RUN_single_SCRIPT.sh` for single parameter set
+ - `./RUN_multi_SCRIPT.sh` for multi parameter set
